@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Network Scanner](screenshots/Screenshot_20251112_224050.png)
+![Network Scanner]
 
 **A powerful Android application for scanning local networks, discovering active devices, and detecting open ports with a sleek dark theme interface.**
 
