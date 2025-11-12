@@ -1,12 +1,12 @@
 # Network Scanner
 
 <div align="center">
+A powerful Android application for scanning local networks, discovering active devices, and detecting open ports with a sleek dark theme interface.
 
-**A powerful Android application for scanning local networks, discovering active devices, and detecting open ports with a sleek dark theme interface.**
-
-[![Android](https://img.shields.io/badge/Android-8.0%2B-green.svg)](https://www.android.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Java](https://img.shields.io/badge/Java-8-orange.svg)](https://www.java.com/)
+https://img.shields.io/badge/Android-8.0%252B-green.svg
+https://img.shields.io/badge/License-MIT-blue.svg
+https://img.shields.io/badge/Java-8-orange.svg
+https://img.shields.io/badge/Download-APK-brightgreen
 
 </div>
 
