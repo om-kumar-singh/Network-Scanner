@@ -19,6 +19,21 @@
 - 📤 **Share Results** - Export scan data easily
 - 🎨 **Dark Theme** - Professional dark UI with green accents
 
+## 📸 Screenshots
+
+<div align="center">
+
+| Main Screen | Scanning | Results | Device Details |
+|:-----------:|:--------:|:-------:|:-------------:|
+| <img src="https://github.com/om-kumar-singh/Network-Scanner/raw/main/screenshots/Screenshot_20251112_224050.png" width="200"> | <img src="https://github.com/om-kumar-singh/Network-Scanner/raw/main/screenshots/Screenshot_20251112_224115.png" width="200"> | <img src="https://github.com/om-kumar-singh/Network-Scanner/raw/main/screenshots/Screenshot_20251112_224135.png" width="200"> | <img src="https://github.com/om-kumar-singh/Network-Scanner/raw/main/screenshots/Screenshot_20251112_224150.png" width="200"> |
+
+**Main Screen** - Clean interface with scan button  
+**Scanning** - Real-time progress with active scanning  
+**Results** - Discovered devices list with open ports  
+**Device Details** - Detailed port information for each device
+
+</div>
+
 ## 🛠️ Tech Stack
 
 - **Language**: Java + XML
