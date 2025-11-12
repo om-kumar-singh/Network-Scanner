@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Dark Theme - High Tech -->
+    <!-- Primary Background: Deep Charcoal/Black -->
+    <color name="background">#0D0B0A</color>
+    <color name="surface">#2A3132</color>
+    <color name="surface_variant">#1A1F20</color>
+    
+    <!-- Primary Accent/Text: Soft White/Off-White -->
+    <color name="primary">#FDF6F6</color>
+    <color name="primary_dark">#E7E8D1</color>
+    <color name="primary_light">#FFFFFF</color>
+    
+    <!-- Secondary Accent (CTAs, highlights): Electric Lime Green -->
+    <color name="accent">#AAFFC3</color>
+    <color name="accent_yellow">#FFBB00</color>
+    
+    <!-- Text colors -->
+    <color name="on_primary">#0D0B0A</color>
+    <color name="on_surface">#FDF6F6</color>
+    <color name="on_surface_variant">#E7E8D1</color>
+    
+    <!-- Neutral Text/Elements: Lighter gray -->
+    <color name="neutral_text">#B0B0B0</color>
+    
+    <!-- Status colors -->
+    <color name="success">#AAFFC3</color>
+    <color name="warning">#FFBB00</color>
+    <color name="error">#FF4444</color>
+    <color name="divider">#3A3F40</color>
+</resources>
